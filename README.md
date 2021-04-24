@@ -12,7 +12,7 @@ Sample website with plenty of files for demos, This is the example for user to s
 deployment will be done soon
 
 ## how to contribute
-changes to every file and do some functionality
+changes to every file and do some functionality,please fork this repository  and issue  pull request for review. 
 
 
 ## social status
